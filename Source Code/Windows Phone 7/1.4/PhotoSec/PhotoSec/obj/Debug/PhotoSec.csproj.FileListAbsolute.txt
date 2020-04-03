@@ -1,0 +1,16 @@
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\ApplicationIcon.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\Background.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\AppManifest.xaml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Debug\PhotoSec.xap
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\App.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\changePassword.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\MainPage.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\options.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\photos.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\PhotoSec.g.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Debug\XapCacheFile.xml

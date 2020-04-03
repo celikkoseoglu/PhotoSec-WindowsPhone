@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{7c59e67f-7e9b-41d3-ad63-9dbd80a06373}" Title="PhotoSec" RuntimeType="Silverlight" Version="1.2.0.0" Genre="apps.normal" Author="PhotoSec author" Description="Password protect your photos!" Publisher="PhotoSec" BitsPerPixel="32">
+    <IconPath IsRelative="true" IsResource="false">PhotoSec.png</IconPath>
+    <Capabilities>
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="PhotoSecToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">PhotoSec.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>PhotoSec</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>
+<!-- WPSDK Version 7.1.8773.0 -->

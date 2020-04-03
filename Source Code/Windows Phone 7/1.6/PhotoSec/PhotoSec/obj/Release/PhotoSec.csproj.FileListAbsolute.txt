@@ -1,0 +1,89 @@
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec.xap
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\ApplicationIcon.png
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\Background.png
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.2.1.0\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\PhotoSec.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.3\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\PhotoSec.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.4\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\about.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\Settings.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\PhotoSec.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 7\1.6\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml

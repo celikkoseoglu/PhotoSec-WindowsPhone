@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12.7.2013 16:41:16">
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll" archivePath="PhotoSec.dll" lastWriteTime="12.7.2013 16:41:13" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\AppBar\add.png" archivePath="AppBar\add.png" lastWriteTime="10.3.2013 10:41:13" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\AppBar\delete.png" archivePath="AppBar\delete.png" lastWriteTime="1.4.2013 21:07:45" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Resources\Splash Screen Blue Logo.jpg" archivePath="Resources\Splash Screen Blue Logo.jpg" lastWriteTime="31.5.2013 08:56:06" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Resources\Splash Screen Red Logo.jpg" archivePath="Resources\Splash Screen Red Logo.jpg" lastWriteTime="31.5.2013 08:56:06" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11.7.2013 19:51:18" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\packages\WPtoolkit.4.2012.10.30\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="1.5.2013 13:12:58" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3.3.2013 18:40:38" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Resources\PhotoSec.png" archivePath="Resources\PhotoSec.png" lastWriteTime="3.6.2013 08:55:01" />
+  <file source="C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.7.2013 19:51:18" />
+</xapCache>

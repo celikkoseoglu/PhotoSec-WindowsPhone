@@ -1,0 +1,107 @@
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\PhotoSec.Resources.AppResources.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\PhotoSec.csproj.GenerateResource.Cache
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec - Copy\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.Resources.AppResources.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.csproj.GenerateResource.Cache
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.Resources.AppResources.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csproj.GenerateResource.Cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.3.1.0\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\options.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.Resources.AppResources.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csproj.GenerateResource.Cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.4.1.0\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\PhotoSec_Release_AnyCPU.xap
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\changePassword.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\about.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\photos.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PicView.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\Settings.g.cs
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.g.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.Resources.AppResources.resources
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csproj.GenerateResource.Cache
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.dll
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.pdb
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\PhotoSec App\Source Code\Windows Phone 8\1.5.1.0\PhotoSec\PhotoSec\obj\Release\PhotoSec.csprojResolveAssemblyReference.cache
